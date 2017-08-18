@@ -1,6 +1,8 @@
 # tempo-api
 Atlassian Tempo API for Java and Example Application
 
+Allows connecting to Tempo to query and create work logs. 
+
 ## creating a worklog
 
     TempoApiClient tempoApiClient = new TempoApiClient(tempoUrl, username, password);
